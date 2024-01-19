@@ -9,7 +9,7 @@ while(num<=15){
     console.log("this is while loop" ,num);
     num++;
 }
-/do while loop
+//do while loop
 let a =50;
 
 do{
