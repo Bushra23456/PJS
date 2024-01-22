@@ -1,3 +1,5 @@
+
+
 let gameNum = 25;
 let usernumber = prompt("enter your number");
 while(usernumber != gameNum){
@@ -5,6 +7,6 @@ while(usernumber != gameNum){
 }
 swal({
     title: "gamer alert!",
-    text: "you are win the game.",
+    text: "you are win the game😊.",
     timer: 5000
   });
