@@ -7,5 +7,5 @@ word.id = "work";
 word.classList.add("today");
 console.log(word);
 
-let elem = document.getElementsByClassName('container');
-elem[0].innerHTML = "kese ho";
+// let elem = document.getElementsByClassName('container');
+// elem[0].innerHTML = "kese ho";
