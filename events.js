@@ -23,6 +23,6 @@ apple.classList="form-control";
 apple.style.margin = "20px";
 
 apple.addEventListener('keyup' , app);
- function app(){
+function app(){
     console.log("today work")
- }
+}
